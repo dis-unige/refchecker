@@ -556,3 +556,7 @@ For detailed testing information, test execution options, and guidance on writin
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Demo
+
+Streamlit app developed by Pablo Irarte, University of Geneva
